@@ -38,7 +38,7 @@ dependencies {
 tasks.test {
     useJUnitPlatform()
 }
-
+```
 ---
 
 ## Как работает тест
